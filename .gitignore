@@ -10,5 +10,10 @@ broadcast/
 # Docs
 docs/
 
+# Submodules
+lib/chainlink-brownie-contracts/
+lib/forge-std/
+lib/foundry-devops/
+
 # Dotenv file
 .env
